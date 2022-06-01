@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.bellum.otter.android",
+      "sha256_cert_fingerprints": [
+        "A4:44:CD:B4:0B:26:FE:03:5A:07:32:4D:27:16:2F:A1:C2:13:4D:9F:9C:D4:E7:75:F1:3F:95:48:2C:63:EF:12"
+      ]   
+    }
+}]
